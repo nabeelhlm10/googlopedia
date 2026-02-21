@@ -1,0 +1,33 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build outputs
+target/
+dist/
+build/
+bin/
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+logs/
+
+# Node dependencies
+node_modules/
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+*.swp
+*.swo
+
+# Project specific
+.env
+local.properties
+application.properties.backup
+googlopedia-backend/src/main/resources/application.properties
